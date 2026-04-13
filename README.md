@@ -119,6 +119,7 @@ Grades
 
 ## Schedule (tentative)
 - module 0: before we start
+- module p: project
 - module 1: the fundamentals
 - module 2: the scientific stack
 
