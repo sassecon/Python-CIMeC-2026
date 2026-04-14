@@ -70,14 +70,9 @@ Before the first class, students should verify that they can:
 
 
 ## Course organization (tentative)
-The course will be organized in four modules.
-Each module: 4-5 x lectures (2h)
-Each lecture: frontal lecture + hands-on coding
-Office hours upon request (min 4 people)
-
-## Course organization
 
 The course is structured into **three modules**, each consisting of approximately **10-11 lectures** of **3 hours** each.
+**75% attendance is compulsory**
 
 Each lecture is organized as a combination of **frontal teaching** and **hands-on coding practice**. Conceptual and methodological aspects will be introduced during the lecture component and then developed through guided practical work.
 
@@ -97,6 +92,7 @@ The overall evaluation is distributed as follows:
   - **20%** prompt formulation
   - **20%** coding
 
+A list of project repositories will be kept [here](https://www.dropbox.com/scl/fi/0xsdxb2bvxmmclscq638f/2025_26-Python-projects.xlsx?rlkey=x0prdfa37k6hyfwv8xnjjzwl0&dl=0)   
 Assignments and final project materials must be submitted via **GitHub**.   
 The course will be graded on a **pass/fail** basis.
 
