@@ -91,8 +91,7 @@ The overall evaluation is distributed as follows:
   - **20%** project design
   - **20%** prompt formulation
   - **20%** coding
-
-A list of project repositories will be kept [here](https://www.dropbox.com/scl/fi/0xsdxb2bvxmmclscq638f/2025_26-Python-projects.xlsx?rlkey=x0prdfa37k6hyfwv8xnjjzwl0&dl=0)   
+  
 Assignments and final project materials must be submitted via **GitHub**.   
 The course will be graded on a **pass/fail** basis.
 
