@@ -121,7 +121,7 @@ Grades
 | Date | h | Topic | Module | Lecture |
 |---|---|---|---|---|
 | 14/04/26 | 3 |Python basics/Shell/Jupyter/GitHub|before we start |0.1,0.2,0.3,0.4|
-| 16/04/26 | 3 |File system, design, prompts |before we start |p.1,p.2,p.3|
+| 16/04/26 | 3 |File system, design, prompts |project |p.1,p.2,p.3|
 | 21/04/26 | 3 |Variables/Containers/Flow control   |fundamentals  |1.1,1.2,1.3|
 | 23/04/26 | 3 |Functions/Errors handling |fundamentals    |1.3,1.4 |
 | 28/04/26 | 3 |Classes/Objects           |fundamentals    |1.5|
