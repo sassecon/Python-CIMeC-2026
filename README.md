@@ -121,13 +121,13 @@ Grades
 | Date | h | Topic | Module | Lecture |
 |---|---|---|---|---|
 | 14/04/26 | 3 |Python basics/Shell/Jupyter/GitHub|before we start |0.1,0.2,0.3,0.4|
-| 16/04/26 | 3 |File system, design, prompts |project |p.1,p.2,p.3|
-| 21/04/26 | 3 |Variables/Containers/Flow control   |fundamentals  |1.1,1.2,1.3|
-| 23/04/26 | 3 |Functions/Errors handling |fundamentals    |1.3,1.4 |
-| 28/04/26 | 3 |Classes/Objects           |fundamentals    |1.5|
+| 16/04/26 | 3 |File system, design, prompts  |project  |p.1,p.2,p.3|
+| 21/04/26 | 3 |Variables/Containers   |fundamentals    |1.1,1.2|
+| 23/04/26 | 3 |Flow control/Functions |fundamentals    |1.3,1.4 |
+| 28/04/26 | 3 |Errors handling/Classes/Objects         |fundamentals    |1.5,1.6|
 | 30/04/26 | 3 |Numpy                     |scientific_stack|2.1|
 | 05/05/26 | 3 |Numpy                     |scientific_stack|2.2|
 | 07/05/26 | 3 |Pandas                    |scientific_stack|2.3|
-| 14/05/26 | 3 |Pandas                |scientific_stack|2.4|
-| 21/05/26 | 3 |Pandas                |scientific_stack|2.5|
-| 28/05/26 | 2 |Project work          |final
+| 14/05/26 | 3 |Pandas                 |scientific_stack|2.4|
+| 21/05/26 | 3 |Plotting               |scientific_stack|2.5|
+| 28/05/26 | 2 |Project work          |final 
